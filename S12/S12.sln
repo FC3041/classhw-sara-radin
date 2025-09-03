@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HW", "HW", "{279BB92B-ED4B-AD7A-0AE1-70ED8CAEC270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S12con", "HW\S12con\S12con.csproj", "{3D9C5F48-6CAB-7D27-09DA-9E3702397485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D9C5F48-6CAB-7D27-09DA-9E3702397485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9C5F48-6CAB-7D27-09DA-9E3702397485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9C5F48-6CAB-7D27-09DA-9E3702397485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9C5F48-6CAB-7D27-09DA-9E3702397485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D9C5F48-6CAB-7D27-09DA-9E3702397485} = {279BB92B-ED4B-AD7A-0AE1-70ED8CAEC270}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B02A1AC-D702-4991-B8D5-80F4C993E04F}
+	EndGlobalSection
+EndGlobal

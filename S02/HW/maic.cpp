@@ -50,7 +50,7 @@ class point
             double rt =sqrt(x_diff*x_diff + y_diff*y_diff);
             if (rt < r)
                 cout << "the point is inside the circle"<<endl;
-            if (rt==r)
+            else if (rt==r)
                 cout << "the point is on the circle"<<endl;
             else
                 cout << "the point is outside the circle"<<endl;
